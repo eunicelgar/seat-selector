@@ -10,7 +10,7 @@ Una interfaz de usuario responsive para seleccionar asientos, desarrollada con H
 - Cálculo dinámico del total y número de asientos seleccionados.
 - Guardado en `localStorage` para mantener la selección al recargar la página.
 
-## 🚀 Cómo usar
+## Cómo usar
 
 1. Clona este repositorio:
 ```
